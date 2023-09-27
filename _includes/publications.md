@@ -1,3 +1,5 @@
+<h2 style="margin: 60px 0px 10px;">Publications</h2>
+
 [1]	X. Wang, **Y. Long**, G. Xu* and Y. Liu. Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service. In 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Hawaii, USA, 2023.
 
 [2]	**Y. Long**, G. Xu, J. Zhao, B. Xie and M. Fang, "Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response," IEEE Transactions on Engineering Management, doi: 10.1109/TEM.2023.3299693.
