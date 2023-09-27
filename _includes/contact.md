@@ -6,4 +6,4 @@
 <br />
 <strong>Office Location:</strong> R802
 <br />
-<strong>Email:</strong> <email>yuying.long (at) connect.polyu.hk</email>
+<strong>Email:</strong> <email>yuying.long@connect.polyu.hk</email>
