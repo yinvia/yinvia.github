@@ -11,4 +11,3 @@
   <li>
     TA, Mathematical Programming, Harbin Institute of Technology, Feb. 2022 – Jun. 2022
   </li>
-</ul>
