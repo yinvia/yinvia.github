@@ -1,9 +1,17 @@
 <h1 id="honors"></h1>
 <h2 style="margin: 60px 0px 10px;">Honors</h2>
-[1] Jun. 2022: Excellent Master’s thesis, Harbin Institute of Technology, Shenzhen, China
+<li>
+  Excellent Master’s thesis, Harbin Institute of Technology, Shenzhen, China, 2022
+</li> 
 
-[2] Dec. 2021: Recommend Excellent Paper, The 16th International Symposium on Emergency Management, Beijing, China
+<li>
+  Outstanding Graduate,  of Harbin Institute of Technology, Beijing, Shenzhen, China, 2022
+</li> 
 
-[3] Jun. 2022: Outstanding Graduate of Harbin Institute of Technology, Shenzhen, China
+<li>
+  Recommend Excellent Paper, The 16th International Symposium on Emergency Management, Beijing, China, 2021
+</li> 
 
-[4] Nov. 2021: Outstanding Student of Harbin Institute of Technology, Shenzhen, China
+<li>
+  Outstanding Student, Harbin Institute of Technology, Shenzhen, China, 2021
+</li> 
