@@ -6,18 +6,23 @@ main:
 
   - title: "Services"
    url: ./#services
+   right: true
 
   - title: "Talks"
    url: ./#invited-talks
+   right: true
 
   - title: "Teaching"
    url: ./#teaching
+   right: true
 
   - title: "Publications"
     url: ./#publications
+    right: true
 
   #- title: "News"
   #  url: ./#news
 
   - title: "Bio"
     url: ./#about-me
+    right: true
