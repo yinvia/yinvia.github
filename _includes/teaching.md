@@ -2,7 +2,7 @@
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
   <li>
-    TA, AAE05: Fleet Management and Aviation Sustainability, The Hong Kong Polytechnic University,	2023Fall
+    TA, AAE5105: Fleet Management and Aviation Sustainability, The Hong Kong Polytechnic University,	2023Fall
   </li>
   
   <li>
