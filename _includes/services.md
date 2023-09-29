@@ -7,7 +7,8 @@
 <li>
   2021 IEEE International Conference on Industrial Engineering and Engineering Management, Singapore, 2021
 </li>
-      [1] Session 1: Reliability and Maintenance Engineering
+      
+      [1] Session 1: Reliability and Maintenance Engineering   
       
       [2] Session 2: Operations Research 
 
