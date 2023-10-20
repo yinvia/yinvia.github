@@ -5,7 +5,7 @@
 </li> 
 
 <li>
-  Outstanding Graduate,  of Harbin Institute of Technology, Beijing, Shenzhen, China, 2022
+  Outstanding Graduate, Harbin Institute of Technology, Beijing, Shenzhen, China, 2022
 </li> 
 
 <li>
