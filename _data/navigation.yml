@@ -4,20 +4,21 @@ main:
     url: ./#contact 
     right: true 
 
-  # - title: "Services"
-  #  url: ./#services
-  #  right: true
+  - title: "Services"
+   url: ./#services
+   right: true
 
-  # - title: "Talks"
-  #  url: ./#invited-talks
-  #  right: true
+  - title: "Talks"
+   url: ./#invited-talks
+   right: true
 
-  # - title: "Teaching"
-  #  url: ./#teaching
-  #  right: true
+  - title: "Teaching"
+   url: ./#teaching
+   right: true
 
   - title: "Publications"
     url: ./#publications
+    right: true
 
   #- title: "News"
   #  url: ./#news
