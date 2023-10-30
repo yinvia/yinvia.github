@@ -8,9 +8,9 @@ main:
    url: ./#services
    right: true
 
-  - title: "Talks"
-   url: ./#invited-talks
-   right: true
+  # - title: "Talks"
+  #  url: ./#invited-talks
+   # right: true
 
   - title: "Teaching"
    url: ./#teaching
