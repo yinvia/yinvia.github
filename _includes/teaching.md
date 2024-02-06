@@ -6,7 +6,7 @@
   </li>
   
   <li>
-    TA, AAE3006: Safety, Reliability and Compliance, The Hong Kong Polytechnic University, 2023Spring
+    TA, AAE3006: Safety, Reliability and Compliance, The Hong Kong Polytechnic University, 2023Spring, 24Spring
   </li>
   
   <li>
