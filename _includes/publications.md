@@ -1,6 +1,6 @@
 <h2 style="margin: 60px 0px 10px;">Publications</h2>
 
-("*" for the corresponding author)
+(**"*" for the corresponding author**)
 
 [1]	X. Wang, **Y. Long**, G. Xu* & Y. Liu. (2023, October). Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service. In _2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), IEEE_.
 
