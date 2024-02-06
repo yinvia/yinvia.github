@@ -3,18 +3,18 @@
 (**"*" for the corresponding author**)
 
 
-<li> X. Wang, **Y. Long**, G. Xu* & Y. Liu. (2023, October). Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service. In _2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC), IEEE_</li>.
+<li> X. Wang, <b>Y. Long</b>, G. Xu* & Y. Liu. (2023, October). Integrated Tractor and Trailer Scheduling for Airport Baggage Transport Service. In <i>2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)</i>, IEEE</li>.
 
 
-<li>	**Y. Long**, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response. _IEEE Transactions on Engineering Management_. DOI:10.1109/TEM.2023.3299693.</li>
+<li>	<b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response. <i>IEEE Transactions on Engineering Management</i>. DOI:10.1109/TEM.2023.3299693.</li>
 
 
-<li>	**Y. Long**, H. Zhang, X. Wang & G. Xu*. (2023, July). UAV-Assisted Emergency Response: An Interdisciplinary Perspective. In _2023 International Society of Transdisciplinary Engineering (TE2023)_.</li>
+<li>	<b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). UAV-Assisted Emergency Response: An Interdisciplinary Perspective. In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>.</li>
 
 
-<li>	G. Xu, **Y. Long**, X. Wang & B. Xie*. (2023, May). Truck-Drone Collaboration Strategies and Scheduling Optimization for Urban Emergency Responses. _Journal of Safety and Environment_ (05),1587-1595. DOI:10.13637/j.issn.1009-6094.2022.0084.</li>
+<li>	G. Xu, <b>Y. Long</b>, X. Wang & B. Xie*. (2023, May). Truck-Drone Collaboration Strategies and Scheduling Optimization for Urban Emergency Responses. <i>Journal of Safety and Environment</i> (05),1587-1595. DOI:10.13637/j.issn.1009-6094.2022.0084.</li>
 
 
-<li>	S. Wang, **Y. Long**, Y. Zhou, & G. Xu*. (2022, December). Multi-UAV Route Planning for Data Collection from Heterogeneous IoT Devices. In _2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)_ (pp. 1556-1560). IEEE. DOI:10.1109/IEEM55944.2022.9989729.</li>
+<li>	S. Wang, <b>Y. Long</b>, Y. Zhou, & G. Xu*. (2022, December). Multi-UAV Route Planning for Data Collection from Heterogeneous IoT Devices. In <i>2022 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</i> (pp. 1556-1560). IEEE. DOI:10.1109/IEEM55944.2022.9989729.</li>
 
-<li> **Y. Long**, Y. Sun, G. Xu*, & P. Shu (2021, December). Collaborative vehicle dispatching for resilient and fair emergency response. In _2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)_ (pp. 649-653). IEEE. DOI: 10.1109/IEEM50564.2021.9672982.</li>
+<li> <b>Y. Long</b>, Y. Sun, G. Xu*, & P. Shu (2021, December). Collaborative vehicle dispatching for resilient and fair emergency response. In <i>2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)</i> (pp. 649-653). IEEE. DOI: 10.1109/IEEM50564.2021.9672982.</li>
