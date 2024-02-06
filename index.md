@@ -13,10 +13,14 @@ My research interests include dynamic decision-making, UAV-assisted systems, and
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/invited-talks.md %}
+
 {% include_relative _includes/honors.md %}
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/teaching.md %}
+
 
 {% include_relative _includes/contact.md %}
