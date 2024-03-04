@@ -7,7 +7,7 @@
 
 [5] <b>Y. Long</b>, G. Xu*, J. Zhao, B. Xie, & M. Fang. (2023, July). [Dynamic Truck–UAV Collaboration and Integrated Route Planning for Resilient Urban Emergency Response.](https://ieeexplore.ieee.org/abstract/document/10394484/](https://ieeexplore.ieee.org/abstract/document/10229971)) <i>IEEE Transactions on Engineering Management</i>. DOI:10.1109/TEM.2023.3299693.
  
-[4] <b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). [UAV-Assisted Emergency Response: An Interdisciplinary Perspective.] (https://books.google.com.hk/books?id=5eDjEAAAQBAJ&pg=PA771&lpg=PA771&dq=%22UAV-Assisted+Emergency+Response:+An+Interdisciplinary+Perspective%22&source=bl&ots=U2Q-m1pvLe&sig=ACfU3U3JG0rIeyFSBnS9LgtP67z4E-tNaQ&hl=zh-CN&sa=X&ved=2ahUKEwjVo5aB2NqEAxUXcPUHHU7YCLsQ6AF6BAgWEAM#v=onepage&q=%22UAV-Assisted%20Emergency%20Response%3A%20An%20Interdisciplinary%20Perspective%22&f=false) In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>.
+[4] <b>Y. Long</b>, H. Zhang, X. Wang & G. Xu*. (2023, July). UAV-Assisted Emergency Response: An Interdisciplinary Perspective. In <i>2023 International Society of Transdisciplinary Engineering (TE2023)</i>.
 
 [3] G. Xu, <b>Y. Long</b>, X. Wang & B. Xie*. (2023, May). [Truck-Drone Collaboration Strategies and Scheduling Optimization for Urban Emergency Responses.](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=AQHJ202305028&uniplatform=OVERSEA&v=1pKKxjUEkwC08v_kFh9m7yE0RN2bA2c7tsH0X63tWSL3JQXxEIxMFdArLtn4-bAQ) <i>Journal of Safety and Environment</i> (05),1587-1595. DOI:10.13637/j.issn.1009-6094.2022.0084. 
 
