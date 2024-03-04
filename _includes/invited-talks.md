@@ -15,5 +15,5 @@
 </li>
 
 <li>
-  Dec. 2021, "Collaborative vehicle dispatching for resilient and fair emergency response", 2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Online.
+  Dec. 2021, "Collaborative Vehicle Dispatching for Resilient and Fair Emergency Response", 2021 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Online.
 </li>
