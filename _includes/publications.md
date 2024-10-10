@@ -3,7 +3,7 @@
 
 (**"*" for the corresponding author**)
 
-[9] <b>Y. Long</b>, X. Han, \& G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>.
+[9] <b>Y. Long</b>, X. Han, & G. Xu*. (2024, October) Dynamic and Collaborative Dispatching of Heterogenous Relief Resources considering Fairness (in Chinese). <i>Journal of Safety Science and Technology </i>.
 
 [8]  <b>Y. Long</b>, P. Sun, & G. Xu*, (2024, October). Dynamic Heterogeneous Resource Allocation in Post-disaster Relief Operation Considering Fairness. <i> Advanced Engineering Informatics</i>.
 
