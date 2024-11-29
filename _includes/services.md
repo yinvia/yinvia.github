@@ -14,3 +14,9 @@
 </li>
 
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
+<li>
+  Frontiers on Engineering Management
+</li>
+<li>
+  The Journal of Supercomputing
+</li>
